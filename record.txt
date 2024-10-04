@@ -1,0 +1,9 @@
+desktop setting
+eye_xdistance = 115 ~ 130
+vertical_distance_index = -100~100
+index_legnth < 70
+
+laptop setting
+eye_xdistance = 60~80
+vertical_distance_index = -80~80
+index_legnth < 50
